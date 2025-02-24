@@ -1,3 +1,11 @@
 [submodule "subspace_kalman_package/dependencies/KalmanNet"]
 	path = subspace_kalman_package/dependencies/KalmanNet
 	url = https://github.com/KalmanNet/KalmanNet_TSP.git
+[submodule "subspace_kalman_package/DCD-MUSIC"]
+	path = subspace_kalman_package/DCD-MUSIC
+	url = https://github.com/aradgast/DCD-MUSIC.git
+	branch = new_loss
+[submodule "subspace_kalman_package/dependencies/DCD-MUSIC"]
+	path = subspace_kalman_package/dependencies/DCD-MUSIC
+	url = https://github.com/aradgast/DCD-MUSIC.git
+	branch = new_loss
