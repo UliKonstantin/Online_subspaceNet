@@ -1,0 +1,3 @@
+[submodule "subspace_kalman_package/dependencies/KalmanNet"]
+	path = subspace_kalman_package/dependencies/KalmanNet
+	url = https://github.com/KalmanNet/KalmanNet_TSP.git

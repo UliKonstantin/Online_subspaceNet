@@ -1,0 +1,28 @@
+ Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+dist/
+build/
+*.egg-info/
+
+# Data and models
+*.pth
+*.pt
+*.pkl
+*.h5
+datasets/
+weights/
+results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
